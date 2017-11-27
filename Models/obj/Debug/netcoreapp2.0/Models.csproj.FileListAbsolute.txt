@@ -1,0 +1,9 @@
+/Users/Ryan/Downloads/Crop-master/Models/bin/Debug/netcoreapp2.0/Crop.Models.deps.json
+/Users/Ryan/Downloads/Crop-master/Models/bin/Debug/netcoreapp2.0/Crop.Models.dll
+/Users/Ryan/Downloads/Crop-master/Models/bin/Debug/netcoreapp2.0/Crop.Models.pdb
+/Users/Ryan/Downloads/Crop-master/Models/obj/Debug/netcoreapp2.0/Models.csprojResolveAssemblyReference.cache
+/Users/Ryan/Downloads/Crop-master/Models/obj/Debug/netcoreapp2.0/Models.csproj.CoreCompileInputs.cache
+/Users/Ryan/Downloads/Crop-master/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfoInputs.cache
+/Users/Ryan/Downloads/Crop-master/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfo.cs
+/Users/Ryan/Downloads/Crop-master/Models/obj/Debug/netcoreapp2.0/Crop.Models.dll
+/Users/Ryan/Downloads/Crop-master/Models/obj/Debug/netcoreapp2.0/Crop.Models.pdb

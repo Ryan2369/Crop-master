@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <RootNamespace>Utility</RootNamespace>
+    <AssemblyName>Utility</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="WebScraper.cs" />
+  </ItemGroup>
+
+</Project>

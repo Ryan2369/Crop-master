@@ -1,0 +1,8 @@
+C:\Users\Bill\source\repos\Crop\Scrape\bin\Debug\netcoreapp1.1\Scrape.deps.json
+C:\Users\Bill\source\repos\Crop\Scrape\obj\Debug\netcoreapp1.1\Scrape.csprojResolveAssemblyReference.cache
+C:\Users\Bill\source\repos\Crop\Scrape\obj\Debug\netcoreapp1.1\Scrape.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\Crop\Scrape\obj\Debug\netcoreapp1.1\Scrape.AssemblyInfo.cs
+C:\Users\Bill\source\repos\Crop\Scrape\bin\Debug\netcoreapp1.1\Scrape.dll
+C:\Users\Bill\source\repos\Crop\Scrape\bin\Debug\netcoreapp1.1\Scrape.pdb
+C:\Users\Bill\source\repos\Crop\Scrape\obj\Debug\netcoreapp1.1\Scrape.dll
+C:\Users\Bill\source\repos\Crop\Scrape\obj\Debug\netcoreapp1.1\Scrape.pdb

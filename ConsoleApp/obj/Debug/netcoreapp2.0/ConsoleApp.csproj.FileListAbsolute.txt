@@ -1,0 +1,11 @@
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.deps.json
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.runtimeconfig.json
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.runtimeconfig.dev.json
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.dll
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.pdb
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.csprojResolveAssemblyReference.cache
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfo.cs
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.dll
+/Users/Ryan/Downloads/Crop-master/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.pdb

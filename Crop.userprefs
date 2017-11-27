@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3D989F3A-5D6D-48B7-B465-956F3A9F0194}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crop.Xam.UI/Models/BuyerProduct.cs">
+    <Files>
+      <File FileName="Crop.Xam.UI/ViewModels/ItemsViewModel.cs" Line="41" Column="1" />
+      <File FileName="Crop.Xam.UI/Services/USDA-WY.cs" Line="63" Column="1" />
+      <File FileName="Crop.Xam.UI/Services/WebScraper.cs" Line="21" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Crop.Xam.UI/ViewModels/BaseViewModel.cs" Line="12" Column="51" />
+      <File FileName="Crop.Xam.UI/ViewModels/ItemDetailViewModel.cs" Line="7" Column="16" />
+      <File FileName="Crop.Xam.UI/Views/ItemsPage.xaml" Line="15" Column="62" />
+      <File FileName="Crop.Xam.UI/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="Crop.Xam.UI/Models/Buyer.cs" Line="8" Column="29" />
+      <File FileName="Crop.Xam.UI/Models/BuyerProduct.cs" Line="14" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Crop.Xam.UI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.399961B9-B5BE-4C65-82FD-6559DD76A7C6">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Crop.Xam.UI.iOS>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
